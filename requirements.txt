@@ -1,0 +1,4 @@
+moviepy==1.0.3
+PyQt5==5.15.9
+numpy==1.21.6
+Pillow==10.0.0 
